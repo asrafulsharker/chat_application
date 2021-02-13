@@ -30,12 +30,12 @@
 
 .ce-text-input {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid #155c41 !important;
 }
 
 .ce-primary-button {
   border-radius: 6px !important;
-  background-color: #7554a0 !important;
+  background-color: #3ab183 !important;
   position: relative;
   bottom: 1px;
 }
@@ -51,12 +51,12 @@
 
 .ce-autocomplete-input {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid #4dda9f !important;
 }
 
 .ce-autocomplete-options {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid #168a5d !important;
   background-color: white !important;
 }
 
@@ -84,13 +84,13 @@
 }
 
 .chat-title {
-  color: #7554a0;
+  color: #67c5a1;
   font-weight: 800;
   font-size: 24px;
 }
 
 .chat-subtitle {
-  color: #7554a0;
+  color: #148865;
   font-weight: 600;
   font-size: 12px;
   padding-top: 4px;
@@ -164,7 +164,7 @@
 .message-form {
   overflow: hidden;
   border-radius: 6px;
-  border: 1px solid #3b2a50;
+  border: 1px solid #3ab183;
   background-color: white;
 }
 
@@ -217,8 +217,8 @@
 .wrapper {
   height: 100vh;
     width: 100%;
-  background: rgb(117,84,160);
-  background: linear-gradient(90deg, rgba(117,84,160,1) 7%, rgba(117,84,160,1) 17%, rgba(106,95,168,1) 29%, rgba(99,103,174,1) 44%, rgba(87,116,184,1) 66%, rgba(70,135,198,1) 83%, rgba(44,163,219,1) 96%, rgba(22,188,237,1) 100%, rgba(0,212,255,1) 100%);  
+  background: rgb(84, 160, 143);
+  background: linear-gradient(90deg, rgb(84, 160, 143) 7%, rgb(84, 160, 137) 17%, rgb(95, 168, 156) 29%, rgb(99, 174, 164) 44%, rgb(87, 184, 171) 66%, rgba(70,135,198,1) 83%, rgba(44,163,219,1) 96%, rgba(22,188,237,1) 100%, rgba(0,212,255,1) 100%);  
   display: flex;
   justify-content: center;
   align-items: center;
